@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:40:26.194-03:00"}
+{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T14:48:44.968-03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ https://telegra.ph/telegram-api-authentication-10-20
 **Плюсы**: быстро, дешево ($0.01), надёжно.  
 Когда мы тестируем на собственном номере телефона, то и бесплатно.
 
-### Шаг 1
+### Шаг 1 (регистрация в telegram)
 Логинимся/регистрируемся по ссылке [https://gateway.telegram.org/](https://gateway.telegram.org/) со своим номером телефона.
 
 > Теперь у нас есть личный кабинет, доступный по ссылке: [https://gateway.telegram.org/account
