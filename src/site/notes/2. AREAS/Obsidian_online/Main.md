@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Main/","tags":["сайты","gardenEntry"],"created":"2024-10-21T11:51:57.475-03:00","updated":"2024-10-22T13:21:23.044-03:00"}
+{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Main/","tags":["сайты","gardenEntry","gardenEntry"],"created":"2024-10-21T11:51:57.475-03:00","updated":"2024-10-22T13:21:23.044-03:00"}
 ---
 
 # текст текст
