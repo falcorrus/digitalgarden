@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/@Flutterflow_rus/Supabase/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T16:36:24.863-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/@Flutterflow_rus/Supabase/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T16:37:53.928-03:00"}
 ---
 
-# Supabase
+
 ## Общее все упаковано
 [База знаний от FF](https://community.flutterflow.io/knowledge-base)
 [find the index of a product by its ID in appstate-Как найти индекс](https://community.flutterflow.io/discussions/post/update-item-index-app-state-CY5XvdriZpnEHEY)
@@ -37,7 +37,7 @@
 
 
 
-### Права в Supa
+## Права в Supa
 #### дать админский доступ определённому ID (666..)
 ((( SELECT auth.uid() AS uid) = id) OR (auth.uid() = '666408b4-1566-447b-a36c-0e36c9ebc96d'::uuid))
 #### Доступ, если совпадает столбец в двух таблицах
