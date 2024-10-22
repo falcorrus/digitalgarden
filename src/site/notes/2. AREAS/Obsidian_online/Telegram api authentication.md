@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:36:42.123-03:00"}
+{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:40:26.194-03:00"}
 ---
 
 
@@ -50,7 +50,8 @@ https://telegra.ph/telegram-api-authentication-10-20
 > "code_length": "4" - цифра может быть от 4 до 8, это длина отправляемого кода
 ![files/3.jpg](/img/user/2.%20AREAS/Obsidian_online/files/3.jpg)
 
-> Строка c "code" не нужна. Она только для тестирования, когда мы хотим отправить свой собственный код. Помним, что в последней строке **не** нужна запятая.  
+> Строка c "code" c картинки не нужна. Она только для тестирования, когда мы хотим отправить свой собственный код. По умолчанию код генерируется автоматически. 
+> ! Помним, что в последней строке **не** нужна запятая.  
 > Все возможные параметры для Body можно посмотреть [https://core.telegram.org/gateway/api](https://core.telegram.org/gateway/api), в разделе sendVerificationMessage
 
 **Важно!** В закладке Advances settings **включаем** галочку Encode body as UTF-8 bytes
@@ -82,7 +83,7 @@ https://telegra.ph/telegram-api-authentication-10-20
 **Сохраняем** и тестируем (жмем **Test API Call**). Получаем Test response похожий на результат шага 2.
 
 Для удобства задаём имя (нажимаем сюда)
-[[files/6-1.jpg]]
+![files/6-1.jpg](/img/user/2.%20AREAS/Obsidian_online/files/6-1.jpg)
 
 и выше задаём имя, например **response**
 ![files/6.jpg](/img/user/2.%20AREAS/Obsidian_online/files/6.jpg)
