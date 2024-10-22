@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:32:31.037-03:00"}
+{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:36:42.123-03:00"}
 ---
 
 
@@ -69,7 +69,7 @@ https://telegra.ph/telegram-api-authentication-10-20
 
 В закладке **Headers (**как в предыдущем шаге 2)**:**
 
-В первую строку: Authorization: Bearer <token>. Вместо <token> вставляем токен с шага 1.
+В первую строку: Authorization: Bearer `<token>`. Вместо `<token>` вставляем токен с шага 1.
 
 Во вторую строку: _Content-Type: application/json)_
 
@@ -82,8 +82,7 @@ https://telegra.ph/telegram-api-authentication-10-20
 **Сохраняем** и тестируем (жмем **Test API Call**). Получаем Test response похожий на результат шага 2.
 
 Для удобства задаём имя (нажимаем сюда)
-![files/6-1.jpg](/img/user/2.%20AREAS/Obsidian_online/files/6-1.jpg)
-
+[[files/6-1.jpg]]
 
 и выше задаём имя, например **response**
 ![files/6.jpg](/img/user/2.%20AREAS/Obsidian_online/files/6.jpg)
