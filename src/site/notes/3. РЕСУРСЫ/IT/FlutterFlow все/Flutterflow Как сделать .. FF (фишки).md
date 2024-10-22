@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3. РЕСУРСЫ/IT/FlutterFlow все/Flutterflow Как сделать .. FF (фишки)/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T16:27:08.547-03:00"}
+{"dg-publish":true,"permalink":"/3. РЕСУРСЫ/IT/FlutterFlow все/Flutterflow Как сделать .. FF (фишки)/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T16:27:28.801-03:00"}
 ---
 
-
+[[5. ONLINE/@Flutterflow_rus/Оглавление\|Оглавление]]
 Программисты flutter из моего чата
 # Спецы
 ## @ciao_sl Дмитрий профи Белорусь
