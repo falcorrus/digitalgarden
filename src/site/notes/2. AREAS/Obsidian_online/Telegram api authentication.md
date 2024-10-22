@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:28:44.955-03:00"}
+{"dg-publish":true,"permalink":"/2. AREAS/Obsidian_online/Telegram api authentication/","created":"2024-10-22T13:24:29.128-03:00","updated":"2024-10-22T13:29:51.307-03:00"}
 ---
 
 
@@ -38,3 +38,14 @@ https://telegra.ph/telegram-api-authentication-10-20
 Во вторую строку: _Content-Type: application/json
 ![files/2 1.jpg](/img/user/2.%20AREAS/Obsidian_online/files/2%201.jpg)
 
+В закладке _Variables_ создаем: **phone**_, тип String_
+
+В раздел BODY выбираем JSON и вставляем:
+
+`{`
+ `"phone_number": "<phone>",`
+ `"code_length": "4"`
+`}`
+
+> "code_length": "4" - цифра может быть от 4 до 8, это длина отправляемого кода
+![files/3.jpg](/img/user/2.%20AREAS/Obsidian_online/files/3.jpg)
