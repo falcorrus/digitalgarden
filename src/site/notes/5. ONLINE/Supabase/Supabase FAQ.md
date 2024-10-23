@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T09:24:34.338-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T11:28:27.287-03:00"}
 ---
 
 
@@ -40,6 +40,8 @@
 
 
 ## Права в Supa
+Надо прописать в **policies**
+
 ### дать админский доступ определённому ID (666..)
 ((( SELECT auth.uid() AS uid) = id) OR (auth.uid() = '666408b4-1566-447b-a36c-0e36c9ebc96d'::uuid))
 ### Доступ, если совпадает столбец в двух таблицах
