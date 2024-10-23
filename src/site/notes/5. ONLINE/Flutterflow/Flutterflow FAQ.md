@@ -1,34 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T17:04:40.407-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T09:36:55.095-03:00"}
 ---
 
-# Основное 
-[Не работает скрол - выключить Primary у ListView](https://t.me/flutterflow_rus/12427/21576)
+# Специальные техники 
+
 [Выложить на свой домен](https://t.me/flutterflow_chat/24784)
 [Удобное удаление строки с подтверждением, техника1](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 [Одновременная работа с текстом, техника2](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 [Сохранение версий текста и возврат их, техника3](https://www.youtube.com/watch?v=YnjOl4sYYaY)
-[Сохранение версий изменения ячеек вSupa, техника4](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 
+## Перевод
 [Перевод через Google и API](https://www.youtube.com/watch?v=xCTEdacOxwE)
 
+## Проблемы 
+[Не работает скрол -> выключить Primary у ListView](https://t.me/flutterflow_rus/12427/21576)
 ## Свайпы
 [Горизонтальный свайп](https://www.youtube.com/watch?v=WqY8lfmj7Bk)
  
 
 
 
-## Подключение Google таблиц как БД
-### Быстрый вариант
-https://www.youtube.com/watch?v=aEQpoF1Wlr4
-Делаем Action на загрузку всего листа таблицы, записываем каждый столбец в отдельную json переменную и ею пользуемся.
-https://drive.google.com/file/d/1GXERFaW1dRuecwqNwvCauPWjc45seZQq/view
-https://benborgers.com/posts/google-sheets-json
-### второй вариант (классический, от JamesNoCode)
-https://www.youtube.com/watch?v=adxDJqslsyE
 
-### третий вариант
-https://www.youtube.com/watch?v=gq9qBgW1QIk&t=818s
 ## Приятный кастомный BottomPicker с Dev 
 https://www.youtube.com/watch?v=yl2LOhJl964
 ## Q: Где найти много полезных хаков и кода в одном месте?
@@ -38,35 +30,17 @@ https://telegra.ph/Oglavlenie-poleznyh-hakov-FlutterFlow-01-25
 Официальный сборник ответов
 https://intercom.help/flutterflow/en/
 
-## Как сделать корзину в FF
-https://m.youtube.com/watch?v=ML6MpNVmoBQ&feature=emb_logo
-https://www.youtube.com/watch?v=V1D0MfFQlSo&t=3s (Jorge)
-https://community.flutterflow.io/c/community-tutorials/how-to-create-a-simple-shopping-cart
-https://www.youtube.com/watch?v=vhbaTpkG8bg (c 15:43)? много полезного кода для функций
+
 
 ## Фильтрация по чекбоксу
 https://www.youtube.com/watch?v=Xw_Axw-GIkE
-## Как сделать поиск даже по центральной части
-https://www.youtube.com/watch?v=jF8tbRgVaQk&t=4s
-[!How to create FILTER WIDGETS and SORT WIDGETS on Flutterflow](https://www.youtube.com/watch?v=cwChclNzx0Y)
+
 ## Как вытащить значение из DropDown для фильтрации дальше
 Экшеном записывать можно
-##  Expandable (крутое использование)
-как нельзя? в head делаете поле тренер и на него if/else - если тренер реф выбран, показать имя тренера, если нет, то поле «тренер», а в expanded view просто делаете list view и там уже зовете коллекцию тренеров/юзеров, а на один элемент в этом листе делаете экшн добавить реф в локалстейт(например), а оттуда уже передадите в коллекцию этот реф
-а если надо несколько значений из одного листа достать, то в локалстейт делаете не реф, а листреф и каждое значение делаете add to set/remove from set (чтобы можно было отменить выбор) и потом передаете этот список
 
-а с днями недели можно сделать лист дней в локалстейте, его плодить через чилдренов, по клику на один итем добавлять его в локалстейт «выбранный день», как автоперевод сделать не подскажу, но как костыль можно на кондишнах передавать данные, типо если итем равен понедельник, то запиши в выбранный день monday, если среда - wednesday и тд, а потом все это накликанное добро из локала уже передавать в коллекцию
-
-либо не плодить лист, а просто сделать список из 7 строк в том же expendable или даже в дропдауне, и на каждое значение записывать значение через special value по тому же принципу
-https://www.youtube.com/watch?v=OGd-rzPVQdQ
 ## Как подключить график
 https://community.flutterflow.io/c/community-custom-widgets/fl-chart-integration
 
-Проверка даты, чтоб входила в диапазон с 32:50
-https://www.youtube.com/watch?v=ljOy9d4TW74&list=RDCMUCDOUnLypYZFVGjB70QkR8ZQ&start_radio=1
-
-## Умеет подключать Юкассу к FF
-@z3rus (Philippe)
 
 ## перевести список на другой язык
 @antonperviy (https://t.me/antonperviy) а с днями недели можно сделать лист дней в локалстейте, его плодить через чилдренов, по клику на один итем добавлять его в локалстейт «выбранный день», как автоперевод сделать не подскажу, но как костыль можно на кондишнах передавать данные, типо если итем равен понедельник, то запиши в выбранный день monday, если среда - wednesday и тд

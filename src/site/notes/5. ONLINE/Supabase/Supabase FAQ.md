@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-22T17:09:25.705-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T09:24:34.338-03:00"}
 ---
 
 
@@ -33,6 +33,8 @@
 [Селфхостинг на DigitalOcean](https://www.youtube.com/watch?v=dDhy6pk282U)
 
 [Универсальный триггер на обновление Supa](https://youtu.be/PhAI000IbBU?si=vOTz6VRoGEyqFE_6)
+
+[Сохранение версий изменения ячеек в Supa, техника4](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 
 
 
