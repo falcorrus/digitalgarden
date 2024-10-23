@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/PUSH/Push FAQ/","created":"2024-10-22T17:08:22.670-03:00","updated":"2024-10-23T10:18:24.710-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/PUSH/Push FAQ/","created":"2024-10-22T17:08:22.670-03:00","updated":"2024-10-23T10:40:07.798-03:00"}
 ---
-
 
 ## OneSignal, Push для Supabase
 https://community.flutterflow.io/discussions/post/onesignal-integration-for-notifications---notifications-for-supabase-yd2c5sa4jzoQr1W

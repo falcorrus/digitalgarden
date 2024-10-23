@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Оплата эккаунта FlutterFlow/","created":"2024-10-23T10:26:26.519-03:00","updated":"2024-10-23T10:35:01.946-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Оплата эккаунта FlutterFlow/","created":"2024-10-23T10:26:26.519-03:00","updated":"2024-10-23T10:39:04.469-03:00"}
 ---
-
 
 Q: Не могу оплатить российский FF, и проблема с Firebase (FB). Как оплатить?
 
 A:  Российский FF эккаунт теперь оплатить нельзя. Надо заводить новый эккаунт (зарубежный). FB надо сделать так же. 
-Разные страны дают разный региональный дисконт. Максимальный найден в 50%. 
+Разные страны дают разный региональный дисконт. Максимальный найден в 50%. @mazuredtech сделал обзор (https://docs.google.com/spreadsheets/d/1c1LVyONCnb35fZ4mF9WEzgMGRpGqvrn_YroNqaVlTBk/) цен на FlutterFlow в разных странах
 
 Текущие проекты можно расшарить на новый эккаунт.
-![FF_Collaboration.jpg](/img/user/5.%20ONLINE/Flutterflow/FF_Collaboration.jpg)
+![../files/FF_Collaboration.jpg](/img/user/5.%20ONLINE/files/FF_Collaboration.jpg)
 
 ## Оплата
 Оплачивать только зарубежной картой (не российской). 
