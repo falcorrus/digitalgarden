@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T11:28:27.287-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-11-07T17:29:34.232-03:00"}
 ---
 
-
+## Цены
+Актуальные цены смотрим тут:
+https://supabase.com/pricing
+![../files/PricingFeesSupabase.jpeg](/img/user/5.%20ONLINE/files/PricingFeesSupabase.jpeg)
 ## Общее все упаковано
 [База знаний от FF](https://community.flutterflow.io/knowledge-base)
 [find the index of a product by its ID in appstate-Как найти индекс](https://community.flutterflow.io/discussions/post/update-item-index-app-state-CY5XvdriZpnEHEY)
@@ -40,8 +43,7 @@
 
 
 ## Права в Supa
-Надо прописать в **policies**
-
+Надо прописывать в **policies** к каждой таблице
 ### дать админский доступ определённому ID (666..)
 ((( SELECT auth.uid() AS uid) = id) OR (auth.uid() = '666408b4-1566-447b-a36c-0e36c9ebc96d'::uuid))
 ### Доступ, если совпадает столбец в двух таблицах
