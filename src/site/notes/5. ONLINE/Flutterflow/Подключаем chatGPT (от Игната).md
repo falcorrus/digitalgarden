@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Подключаем chatGPT (от Игната)/","created":"2024-10-23T10:05:37.721-03:00","updated":"2024-10-23T10:06:04.319-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Подключаем chatGPT (от Игната)/","created":"2024-10-23T10:06:04.319-03:00","updated":"2024-10-23T10:06:04.319-03:00"}
 ---
 
 

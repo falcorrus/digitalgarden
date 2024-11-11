@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Тормозит WEB версия моего сайта на FF/","created":"2024-10-23T10:56:19.893-03:00","updated":"2024-10-23T10:56:46.432-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Тормозит WEB версия моего сайта на FF/","created":"2024-10-23T10:56:46.431-03:00","updated":"2024-10-23T10:56:46.431-03:00"}
 ---
 
 Q: тормозит WEB версия моего сайта на FF. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Карты (maps)/","created":"2024-10-23T15:17:34.760-03:00","updated":"2024-10-23T15:39:34.728-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Карты (maps)/","created":"2024-10-23T15:39:34.728-03:00","updated":"2024-10-23T15:39:34.728-03:00"}
 ---
 
 ## Подборка видео

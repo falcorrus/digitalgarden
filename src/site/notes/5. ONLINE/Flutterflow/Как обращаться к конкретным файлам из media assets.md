@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Как обращаться к конкретным файлам из media assets/","created":"2024-11-04T16:41:41.916-03:00","updated":"2024-11-04T16:43:29.957-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Как обращаться к конкретным файлам из media assets/","created":"2024-11-04T16:43:29.957-03:00","updated":"2024-11-04T16:43:29.957-03:00"}
 ---
 
 #код

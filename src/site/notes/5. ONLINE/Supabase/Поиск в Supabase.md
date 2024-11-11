@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Поиск в Supabase/","created":"2024-10-22T17:09:28.078-03:00","updated":"2024-10-23T10:18:09.219-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Поиск в Supabase/","created":"2024-10-23T10:18:09.218-03:00","updated":"2024-10-23T10:18:09.218-03:00"}
 ---
 
 ## Подборка

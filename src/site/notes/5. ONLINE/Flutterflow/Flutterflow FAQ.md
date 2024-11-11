@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-10-23T10:05:34.556-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-11-08T17:08:36.310-03:00","updated":"2024-11-08T17:08:36.310-03:00"}
 ---
 
 # Специальные техники 
@@ -35,8 +35,13 @@ https://intercom.help/flutterflow/en/
 ## Фильтрация по чекбоксу
 https://www.youtube.com/watch?v=Xw_Axw-GIkE
 
-## Как вытащить значение из DropDown для фильтрации дальше
-Экшеном записывать можно
+## Dropdown
+[Видео подробное. Как использовать через Custom dialog](https://www.youtube.com/watch?v=7Qc7qLrdYj4)
+
+
+
+Q: Как вытащить значение из DropDown для фильтрации дальше
+A: Экшеном записывать можно
 
 ## Как подключить график
 https://community.flutterflow.io/c/community-custom-widgets/fl-chart-integration

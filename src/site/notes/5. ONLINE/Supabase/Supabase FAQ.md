@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-10-04T16:57:07.858-03:00","updated":"2024-11-07T17:29:34.232-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-11-07T17:29:34.232-03:00","updated":"2024-11-07T17:29:34.232-03:00"}
 ---
 
 ## Цены

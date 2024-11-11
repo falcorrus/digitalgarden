@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-10-31T10:58:15.471-03:00","updated":"2024-11-04T16:48:10.178-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-11-04T16:48:10.177-03:00"}
 ---
 
 ## Сколько времени занимает обновление в Play Market?

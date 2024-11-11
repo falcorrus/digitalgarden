@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Push уведомления/Как подключить push в supabase/","created":"2024-10-23T10:55:33.822-03:00","updated":"2024-10-23T10:55:53.756-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Push уведомления/Как подключить push в supabase/","created":"2024-10-23T10:55:53.756-03:00","updated":"2024-10-23T10:55:53.756-03:00"}
 ---
 
 
