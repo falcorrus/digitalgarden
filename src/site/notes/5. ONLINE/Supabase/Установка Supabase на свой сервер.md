@@ -1,23 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["clippings"],"created":"2024-11-25T13:07:23.128-03:00","updated":"2024-11-25T13:08:51.513-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["clippings"],"created":"2024-11-25T13:07:23.128-03:00","updated":"2024-11-25T13:10:20.795-03:00"}
 ---
 
 February 21, 2023
 Оригинал: [Установка Supabase на свой сервер – Telegraph](https://telegra.ph/Ustanovka-Supabase-na-svoj-server-02-21)
 
 ## Установка Supabase на свой сервер
-
-Kevgen
-
 Нам понадобится:
-
 Сервер с установленным Linux,
-
 Docker и docker-compose,
-
 Свой домен (я использовал reg.ru).
 
-Шаги установки:
+## Шаги установки:
 
 #### Шаг 1:
 
