@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Обновления FF/2024-11-20_What's New in FlutterFlow  November 20, 2024/","title":"What's New in FlutterFlow | November 20, 2024","tags":["clippings"],"created":"2024-11-26T10:03:03.147-03:00","updated":"2024-11-26T10:03:14.001-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Обновления FF/2024-11-20_What's New in FlutterFlow  November 20, 2024/","title":"2024-11-20_What's New in FlutterFlow","created":"2024-11-26T10:03:03.147-03:00","updated":"2024-11-26T10:26:18.182-03:00"}
 ---
 
 **File Download Action**
