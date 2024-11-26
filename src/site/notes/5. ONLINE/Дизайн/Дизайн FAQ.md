@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ/","tags":["telegram"],"created":"2024-11-26T09:04:36.991-03:00","updated":"2024-11-26T09:07:30.277-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ/","tags":["telegram"],"created":"2024-11-26T09:04:36.991-03:00","updated":"2024-11-26T09:37:15.631-03:00"}
 ---
 
 ## убрать синий Шейп
