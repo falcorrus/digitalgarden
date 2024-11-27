@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-11-07T17:29:34.232-03:00","updated":"2024-11-07T17:29:34.232-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-11-07T17:29:34.232-03:00","updated":"2024-11-26T15:15:18.953-03:00"}
 ---
 
 ## Цены
@@ -7,6 +7,7 @@
 https://supabase.com/pricing
 ![../files/PricingFeesSupabase.jpeg](/img/user/5.%20ONLINE/files/PricingFeesSupabase.jpeg)
 ## Общее все упаковано
+[[5. ONLINE/Другие инструменты/Бекэнды backends\|Что такое бэкэнд и с чем его едят]]
 [База знаний от FF](https://community.flutterflow.io/knowledge-base)
 [find the index of a product by its ID in appstate-Как найти индекс](https://community.flutterflow.io/discussions/post/update-item-index-app-state-CY5XvdriZpnEHEY)
 
