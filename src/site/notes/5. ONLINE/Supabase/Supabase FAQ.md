@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-11-07T17:29:34.232-03:00","updated":"2024-11-26T15:15:18.953-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-11-28T11:07:26.619-03:00","updated":"2024-11-28T18:40:52.220-03:00"}
 ---
 
 ## Цены
 Актуальные цены смотрим тут:
 https://supabase.com/pricing
 ![../files/PricingFeesSupabase.jpeg](/img/user/5.%20ONLINE/files/PricingFeesSupabase.jpeg)
+
+## Развернуть (deploy) Supabase на свой сервер
+[[5. ONLINE/Supabase/Установка Supabase на свой сервер\|Установка Supabase на свой сервер]]
+
 ## Общее все упаковано
 [[5. ONLINE/Другие инструменты/Бекэнды backends\|Что такое бэкэнд и с чем его едят]]
 [База знаний от FF](https://community.flutterflow.io/knowledge-base)

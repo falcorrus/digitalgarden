@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Push уведомления/Пуши Push FAQ/","created":"2024-10-24T10:55:49.046-03:00","updated":"2024-11-26T14:58:31.729-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Push уведомления/Пуши Push FAQ/","created":"2024-10-24T10:55:49.046-03:00","updated":"2024-11-28T15:58:59.268-03:00"}
 ---
 
 ## OneSignal, Push для Supabase

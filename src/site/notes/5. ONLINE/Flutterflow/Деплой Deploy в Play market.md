@@ -1,6 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-11-04T16:48:10.177-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-11-27T17:56:43.780-03:00"}
 ---
+
+## Основное
+Что нужно сделать в ходе публикации приложения:
+
+1. создать аккаунт разработчика в [Google **Play** Developer Console](<(https://play.google.com/console/)>);
+2. оформить privacy policy;
+3. подготовить маркетинговые материалы;
+4. обеспечить сборку наличием сертификата цифровой подписи;
+5. настроить оплату за пользование **приложения**;
+6. отправить сборку в Google **Play**.
+
+[Справка. Требования к тестированию](https://support.google.com/googleplay/android-developer/answer/14151465)
 
 ## Сколько времени занимает обновление в Play Market?
 **Вопрос:**

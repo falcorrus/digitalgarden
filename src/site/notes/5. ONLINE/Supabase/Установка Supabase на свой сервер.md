@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-25T13:07:23.128-03:00","updated":"2024-11-27T13:53:12.772-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-27T13:53:12.771-03:00","updated":"2024-11-27T13:53:12.771-03:00"}
 ---
 
 February 21, 2023
