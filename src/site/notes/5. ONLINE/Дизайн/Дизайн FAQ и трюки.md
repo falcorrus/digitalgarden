@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-28T18:32:06.141-03:00","updated":"2024-11-28T18:32:06.141-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-28T18:32:06.141-03:00","updated":"2024-11-28T18:32:06.142-03:00"}
 ---
 
 ### убрать синий Шейп при скроле
