@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-27T13:53:12.771-03:00","updated":"2024-11-29T18:29:07.525-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-27T13:53:12.771-03:00","updated":"2024-11-29T18:30:11.736-03:00"}
 ---
 
 February 21, 2023
@@ -16,9 +16,7 @@ Docker и docker-compose,
 
 ## Шаги установки:
 
-#### Шаг 1:
-
-Копируем репозиторий:
+#### Шаг 1: Копируем репозиторий:
 
 ```
 git clone --depth 1 https://github.com/supabase/supabase
