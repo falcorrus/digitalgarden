@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-27T13:53:12.771-03:00","updated":"2024-11-27T13:53:12.771-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Установка Supabase на свой сервер/","title":"Установка Supabase на свой сервер","tags":["инструкция","IT"],"created":"2024-11-27T13:53:12.771-03:00","updated":"2024-11-29T18:29:07.525-03:00"}
 ---
 
 February 21, 2023
 Оригинал: [Установка Supabase на свой сервер – Telegraph](https://telegra.ph/Ustanovka-Supabase-na-svoj-server-02-21)
 
+## Кто может помочь
+@Kosmorangers
+@jrustick
 ## Установка Supabase на свой сервер
 Нам понадобится:
 Сервер с установленным Linux,
