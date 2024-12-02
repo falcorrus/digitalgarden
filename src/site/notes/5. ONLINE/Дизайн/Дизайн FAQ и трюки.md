@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-28T18:32:06.141-03:00","updated":"2024-11-28T18:32:06.142-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-30T23:09:05.026-03:00","updated":"2024-11-30T23:09:05.026-03:00"}
 ---
 
 ### убрать синий Шейп при скроле
@@ -18,6 +18,9 @@
 Листаете в самый низ, и нажимаете на галочку "Use Material 3 Theme" 
 Все, у вас оттягивание на скрол вместо синего шейпа
 -=-=-=
+
+
+
 ### Выделение не только рамки, но и фона текстового поля
 [FlutterFlow Tip #4 : Focused TextFields in FlutterFlow - YouTube](https://www.youtube.com/watch?v=1kajWNgw2vQ)
 ![../files/img_textField.jpg](/img/user/5.%20ONLINE/files/img_textField.jpg)
