@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Авторизация/Авторизация через Google/","created":"2024-11-30T21:10:53.204-03:00","updated":"2024-11-30T21:10:53.204-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Авторизация/Авторизация через Google/","created":"2024-11-30T21:10:53.204-03:00","updated":"2024-12-03T16:17:18.842-03:00"}
 ---
 
 
@@ -12,3 +12,6 @@
 # Юридически
 На российских сайтах запрещена авторизация через Google
 https://g.co/gemini/share/f0089d776bef
+
+# Обучающие видео
+[Google Sign In with Firebase (Updated) - YouTube](https://www.youtube.com/watch?v=x1SLLGJ9UAE)
