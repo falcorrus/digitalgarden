@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Supabase FAQ/","created":"2024-12-02T12:44:40.860-03:00","updated":"2024-12-02T12:44:40.860-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase и базы данных/Supabase FAQ/","created":"2024-11-28T11:07:26.619-03:00","updated":"2024-12-03T13:15:48.281-03:00"}
 ---
 
 ## Обучение
 [[5. ONLINE/Flutterflow/Обучение и блогеры\|Обучение и блогеры]]
+[16. Databases Part 2: SQLite & Supabase | Обучающее видео](https://www.youtube.com/watch?v=f7bAWV6S32E)
+
 ## Цены
 Актуальные цены смотрим тут:
 https://supabase.com/pricing
 ![../files/PricingFeesSupabase.jpeg](/img/user/5.%20ONLINE/files/PricingFeesSupabase.jpeg)
 
 ## Развернуть (deploy) Supabase на свой сервер
-[[5. ONLINE/Supabase/Установка Supabase на свой сервер\|Установка Supabase на свой сервер]]
+[[5. ONLINE/Supabase и базы данных/Установка Supabase на свой сервер\|Установка Supabase на свой сервер]]
 
 ## Общее, все упаковано
 [[5. ONLINE/Другие инструменты/Бекэнды backends\|Что такое бэкэнд и с чем его едят]]

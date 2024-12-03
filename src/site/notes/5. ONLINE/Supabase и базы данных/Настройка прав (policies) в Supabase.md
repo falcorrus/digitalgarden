@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Supabase/Настройка прав (policies) в Supabase/","created":"2024-11-25T13:12:48.763-03:00","updated":"2024-11-25T13:12:48.763-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Supabase и базы данных/Настройка прав (policies) в Supabase/","created":"2024-11-22T12:47:39.188-03:00","updated":"2024-11-25T13:12:48.763-03:00"}
 ---
 
 ## Разрешаем только пользоватям, чьё id в таблице users совпадает с uuid_owner в orders

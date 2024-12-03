@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-30T23:09:05.026-03:00","updated":"2024-11-30T23:09:05.026-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Дизайн/Дизайн FAQ и трюки/","tags":["telegram"],"created":"2024-11-30T23:09:05.026-03:00","updated":"2024-12-02T16:22:04.656-03:00"}
 ---
 
 ### убрать синий Шейп при скроле
@@ -24,4 +24,8 @@
 ### Выделение не только рамки, но и фона текстового поля
 [FlutterFlow Tip #4 : Focused TextFields in FlutterFlow - YouTube](https://www.youtube.com/watch?v=1kajWNgw2vQ)
 ![../files/img_textField.jpg](/img/user/5.%20ONLINE/files/img_textField.jpg)
+
+
+### улучшение Лоадера для таблиц
+[FlutterFlow Tip #5: Custom Skeleton Loading States in FlutterFlow - YouTube, создание скелета](https://www.youtube.com/watch?v=FmbogF7TzIs)
 

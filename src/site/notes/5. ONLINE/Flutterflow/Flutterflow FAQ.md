@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-11-08T17:08:36.310-03:00","updated":"2024-11-08T17:08:36.310-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-11-08T17:08:36.310-03:00","updated":"2024-12-02T12:45:10.900-03:00"}
 ---
 
 # Специальные техники 
@@ -8,6 +8,7 @@
 [Удобное удаление строки с подтверждением, техника1](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 [Одновременная работа с текстом, техника2](https://www.youtube.com/watch?v=YnjOl4sYYaY)
 [Сохранение версий текста и возврат их, техника3](https://www.youtube.com/watch?v=YnjOl4sYYaY)
+[Селфхостинг на DigitalOcean](https://www.youtube.com/watch?v=dDhy6pk282U)
 
 ## Перевод
 [Перевод через Google и API](https://www.youtube.com/watch?v=xCTEdacOxwE)
