@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-11-08T17:08:36.310-03:00","updated":"2024-12-02T12:45:10.900-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Flutterflow FAQ/","created":"2024-11-08T17:08:36.310-03:00","updated":"2024-12-05T13:30:40.094-03:00"}
 ---
 
 # Специальные техники 
@@ -133,7 +133,6 @@ After **enter key password:** write **android** and press **enter** (you won't s
 keytool -list -v \
 -alias androiddebugkey -keystore ~/.android/debug.keystore
 
-**SHA1**: EF:9E:FF:3E:A7:17:AA:18:EA:E5:9C:32:B6:4C:29:77:2F:95:E7:11
 
 [Вариант отсюда](https://www.youtube.com/watch?v=uV9PQcg0qLI):
 в терминале: keytool -printcert -jarfile имя файла.apk
