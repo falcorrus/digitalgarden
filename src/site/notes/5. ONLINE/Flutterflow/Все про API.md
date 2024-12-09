@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Все про API/","created":"2024-12-05T14:11:31.210-03:00","updated":"2024-12-09T10:44:49.168-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Все про API/","created":"2024-12-05T14:11:31.210-03:00","updated":"2024-12-09T15:29:50.586-03:00"}
 ---
 
 # Обучение
@@ -27,3 +27,7 @@ URL будет примерно такой:
 - название параметра, например colour= (обязательно знак равно)
 - значение из какой-то переменной (например, widget state -> choice chips)
 - & (на конце обязательно! Не забыть!)
+
+
+## API Interseptors
+[FlutterFlow's MOST INNOVATIVE Features of 2024 - Feature 6](https://www.youtube.com/watch?v=aLg-sQ83Cqg)
