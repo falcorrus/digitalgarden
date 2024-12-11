@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-12-03T16:31:23.623-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-12-11T13:52:38.136-03:00"}
 ---
 
 ## Основное
@@ -15,6 +15,8 @@
 [Справка. Требования к тестированию](https://support.google.com/googleplay/android-developer/answer/14151465)
 
 [Официальное видео Flutterflow- YouTube](https://www.youtube.com/watch?v=z3RbgbVR2fo)
+[22. Deployment & Publishing | FlutterFlow University Expert Training - YouTube](https://www.youtube.com/watch?v=M3V9HU1F494)
+
 
 
 ## Сколько времени занимает обновление в Play Market?
