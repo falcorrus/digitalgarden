@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-12-11T15:59:58.740-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-12-11T17:24:03.581-03:00"}
 ---
 
 ## Основное
@@ -16,7 +16,7 @@
 
 [Официальное видео Flutterflow- YouTube](https://www.youtube.com/watch?v=z3RbgbVR2fo)
 [22. Deployment & Publishing | FlutterFlow University Expert Training - YouTube](https://www.youtube.com/watch?v=M3V9HU1F494)
-
+[для play market с 34:00](https://www.youtube.com/watch?v=M3V9HU1F494)
 
 
 ## Сколько времени занимает обновление в Play Market?
@@ -41,3 +41,14 @@ A: Ну, чтоб убедиться, что точно это версия не
 А если эккаунт создан позже, то нужны.
 
 [Группа взаимопомощи в телеграм](https://t.me/testimgoogleplay)
+[Что там и как](https://t.me/testimgoogleplay/1/4)
+
+Текст для чата:
+Всем привет, уважаемые коллеги, прошу помочь с закрытым тестированием. 
+Маркетплейс в Буэнос-Айресе, услуги, новости Аргентины, события.
+Сделано на Flutterflow. Нужна помощь, подскажу.
+
+Android: https://play.google.com/store/apps/details?id=baonline.ru
+
+Web: https://play.google.com/apps/testing/baonline.ru
+
