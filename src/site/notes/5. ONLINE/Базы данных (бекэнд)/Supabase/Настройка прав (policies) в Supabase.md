@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Базы данных (бекэнд)/Supabase/Настройка прав (policies) в Supabase/","created":"2024-11-22T12:47:39.188-03:00","updated":"2024-11-25T13:12:48.763-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Базы данных (бекэнд)/Supabase/Настройка прав (policies) в Supabase/","created":"2024-11-22T12:47:39.188-03:00","updated":"2024-12-13T18:00:08.535-03:00"}
 ---
+
+
+## Обучающие видео
+Много про RLS (права на строки, на столбцы, MFA/multi-factor auth) [Supabase Is A LOT More POWERFUL Than You Thought! - YouTube](https://www.youtube.com/watch?v=Jipdn8SLwAI)
 
 ## Разрешаем только пользоватям, чьё id в таблице users совпадает с uuid_owner в orders
 В таблице *order* заводим столбец *uuid_owner*
