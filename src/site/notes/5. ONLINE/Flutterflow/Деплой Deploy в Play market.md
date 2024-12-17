@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-11-04T16:48:10.177-03:00","updated":"2024-12-11T17:24:03.581-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Деплой Deploy в Play market/","created":"2024-12-16T10:15:28.147-03:00","updated":"2024-12-16T15:30:59.670-03:00"}
 ---
 
 ## Основное
@@ -43,6 +43,9 @@ A: Ну, чтоб убедиться, что точно это версия не
 [Группа взаимопомощи в телеграм](https://t.me/testimgoogleplay)
 [Что там и как](https://t.me/testimgoogleplay/1/4)
 
+Человек за недорого решает вопрос
+@Merlowe
+
 Текст для чата:
 Всем привет, уважаемые коллеги, прошу помочь с закрытым тестированием. 
 Маркетплейс в Буэнос-Айресе, услуги, новости Аргентины, события.
@@ -52,3 +55,7 @@ Android: https://play.google.com/store/apps/details?id=baonline.ru
 
 Web: https://play.google.com/apps/testing/baonline.ru
 
+
+
+## Тестирование платежей из разных стран
+[Приложение Play Billing Lab позволяет разработчикам Android тестировать интеграцию с Play Billing Library.](https://play.google.com/store/apps/details?id=com.google.android.apps.play.billingtestcompanion)
