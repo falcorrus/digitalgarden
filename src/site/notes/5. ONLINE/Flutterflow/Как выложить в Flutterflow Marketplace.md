@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Как выложить в Flutterflow Marketplace d/","title":"Submitting Item for Review | FlutterFlow Documentation","tags":["статьи"],"created":"2024-12-16T21:50:19.738-03:00","updated":"2024-12-16T21:50:19.738-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Как выложить в Flutterflow Marketplace/","title":"Submitting Item for Review | FlutterFlow Documentation","tags":["статьи"],"created":"2024-12-16T21:47:18.944-03:00","updated":"2024-12-16T21:50:19.738-03:00"}
 ---
 
 Оригинал: [Submitting Item for Review | FlutterFlow Documentation](https://docs.flutterflow.io/marketplace/creators-hub/submit-item-for-reivew/)
