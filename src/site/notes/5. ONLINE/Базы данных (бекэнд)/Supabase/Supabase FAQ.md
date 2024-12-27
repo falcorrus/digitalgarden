@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Базы данных (бекэнд)/Supabase/Supabase FAQ/","created":"2024-11-28T11:07:26.619-03:00","updated":"2024-12-09T16:58:19.814-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Базы данных (бекэнд)/Supabase/Supabase FAQ/","created":"2024-11-28T11:07:26.619-03:00","updated":"2024-12-27T10:32:23.775-03:00"}
 ---
 
 ## Обучение
@@ -14,7 +14,7 @@ https://supabase.com/pricing
 ![../../files/PricingFeesSupabase.jpeg](/img/user/5.%20ONLINE/files/PricingFeesSupabase.jpeg)
 
 ## Развернуть (deploy) Supabase на свой сервер
-[[5. ONLINE/Supabase/Установка Supabase на свой сервер\|Установка Supabase на свой сервер]]
+[[../Установка Supabase на свой сервер 1\|../Установка Supabase на свой сервер 1]]
 
 ## Общее, все упаковано
 [[5. ONLINE/Другие инструменты/Бекэнды backends\|Что такое бэкэнд и с чем его едят]]
