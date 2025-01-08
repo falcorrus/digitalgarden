@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Другие инструменты/MiniApps/","created":"2024-10-25T11:51:10.184-03:00","updated":"2025-01-08T16:09:25.372-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Другие инструменты/MiniApps/","created":"2024-10-25T11:51:10.184-03:00","updated":"2025-01-08T16:11:49.248-03:00"}
 ---
 
  Телеграм MiniApps очень интересная штука в плане взаимодействия с пользователем, это простое веб приложение, но в нем можно использовать данные самого клиента такие как текущего пользователя (прощайте логины и пароли) или возможность запускать сканер QR кодов или выставлять счет для оплаты через телеграм.
@@ -66,29 +66,6 @@ https://wiki.skripov.com/w/Telegram_Mini_Apps_на_FlutterFlow
 • Проверьте работоспособность вашего приложения через WebView Telegram.
 
 
-### **Пример: Простое приложение на Flutter Web**
-
-`import 'package:flutter/material.dart';`
-`void main() {`
-  `runApp(MyApp());`
-`}`
-
-`class MyApp extends StatelessWidget {`
-  `@override`
-  `Widget build(BuildContext context) {`
-    `return MaterialApp(`
-      `home: Scaffold(`
-        `appBar: AppBar(title: Text('Telegram MiniApp')),`
-        `body: Center(`
-          `child: Text('Hello, Telegram MiniApp!'),`
-        `),`
-      `),`
-    `);`
-  `}`
-`}`
-
-  
-
 ### **Что дальше?**
 
 1. Разработайте приложение.
@@ -96,18 +73,6 @@ https://wiki.skripov.com/w/Telegram_Mini_Apps_на_FlutterFlow
 3. Создайте Telegram-бота через [BotFather](https://core.telegram.org/bots#botfather).
 4. Настройте вашего бота на открытие MiniApp через InlineKeyboardButton или WebApp-кнопки.
 
-**Пример кнопки для запуска WebApp через бота**:
-
-`{`
-  `"inline_keyboard": [`
-    `[`
-      `{`
-        `"text": "Open MiniApp",`
-        `"web_app": {"url": "https://your-app-url.com"}`
-      `}`
-    `]`
-  `]`
-`}`
 
 **Итог:**
 
