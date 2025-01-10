@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Карты (maps)/","created":"2024-10-23T15:39:34.728-03:00","updated":"2024-12-03T17:24:05.897-03:00"}
+{"dg-publish":true,"permalink":"/5. ONLINE/Flutterflow/Карты (maps)/","created":"2024-10-23T15:39:34.728-03:00","updated":"2025-01-10T10:02:16.104-03:00"}
 ---
 
 ## Подборка видео
@@ -10,6 +10,13 @@
 
 
 ## Сравнение Mapbox VS Google Maps
+Гугл: проще - дороже
+Mapbox (https://community.flutterflow.io/c/community-custom-widgets/post/mapbox-on-flutterflow-but-for-real-this-time-updated-jan-2024-Qu0kMo1yiyPF71Q): сложнее - дешевле 
+
+Отличий сильных нет, единственное - адреса в России ищет плохо(апи поиска адреса). Но latlng определяет их отлично, даже в некоторых моментах лучше чем гугл
+
+-=-=-=-=-=
+
 [Видео](https://www.youtube.com/watch?v=hHQOWdu2o8k)
 Пересказ
 00:00 Введение и кастомизация
